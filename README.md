@@ -1,50 +1,52 @@
-<!-- ![creative coder](https://github.com/HlaingMinThan/HlaingMinThan/blob/master/CD-CCV.png) -->
+<!-- ![creative coder](https://github.com/Sai-Khawn-Kham/Sai-Khawn-Kham/blob/main/img.png) -->
+<h1 align="center">Hi 👋, I'm Khawn Kham</h1>
+<h3 align="center">Web Developer</h3>
 
-
-<h1 align="center">Hi 👋, I'm Khawn Kham <br> Frontend Developer</h1>
-
-<!-- <h3 align="center">Web & Mobile Developer</h3> -->
-
-
-<!-- <p align="left">
-   <a href="https://twitter.com/hlaingminthan4" target="blank">
-      <img src="https://img.shields.io/twitter/follow/hlaingminthan4?logo=twitter&style=for-the-badge" alt="hlaingminthan4" />
+<p align="left">
+   <a href="https://www.linkedin.com/in/khawn-kham-67700b34a" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
    </a>
-</p> -->
+</p>
 
 
-<!-- - 🌱 I’m currently learning **Data Structures and Algorithms in Javascript** -->
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/HlaingMinThan?tab=repositories](https://github.com/HlaingMinThan?tab=repositories) -->
+<!-- - 🔭 I’m currently working on ... -->
 
-<!-- - 📝 I regularly write articles on [https://creativecodermm.com/posts/](https://creativecodermm.com/posts/) -->
+- 🌱 I’m currently learning **Backend Development with PHP and Laravel**
 
-<!-- - 💬 Ask me about **laravel,vue** -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 
-<!-- - 📫 How to reach me **https://www.facebook.com/creativecodermm** -->
+<!-- - 🤔 I’m looking for help with ... -->
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sai-Khawn-Kham?tab=repositories](https://github.com/Sai-Khawn-Kham?tab=repositories)
+
+<!-- - 📝 I regularly write articles on ... -->
+
+<!-- - 💬 Ask me about ... -->
+
+<!-- - 📫 How to reach me ... -->
+
+<!-- - 😄 Pronouns: ... -->
+
+<!-- - ⚡ Fun fact: ... -->
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HlaingMinThan&show_icons=true&theme=tokyonight) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-Khawn-Kham&show_icons=true&theme=tokyonight)
+
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   <!-- <a href="https://twitter.com/hlaingminthan4" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hlaingminthan4" height="30" width="40" />
-   </a> -->
    <a href="https://www.linkedin.com/in/khawn-kham-67700b34a" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khawn-kham" height="30" width="40" />
    </a>
-   <!-- <a href="https://fb.com/hlaingmin.than.31521" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hlaingmin.than.31521" height="30" width="40" />
-   </a> -->
-   <!-- <a href="https://www.youtube.com/c/creativecodermyanmar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creativecodermyanmar" height="30" width="40" />
-   </a> -->
+   <a href="https://www.facebook.com/sai.k.kham.2222/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai.k.kham.2222" height="30" width="40" />
+   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,12 +61,12 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+   </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
    </a>
-   <!-- <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-   </a> -->
    <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
    </a>
@@ -100,18 +102,3 @@
       <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
    </a> -->
 </p>
-
-<!--
-**Sai-Khawn-Kham/Sai-Khawn-Kham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
