@@ -38,6 +38,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test post to display on GitHub](https://medium.com/@sai435137/test-post-to-display-on-github-f7a136886cd6?source=rss-dc79c266b082------2)
+- [test post to display on GitHub](https://dev.to/saikhawnkham/test-post-to-display-on-github-2ja8)
 <!-- BLOG-POST-LIST:END -->
 
 
