@@ -1,0 +1,24 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour
+    # - cron: '0 0 * * *' # Daily: Runs once a day at 00:00 UTC
+    # - cron: '0 0 * * 0' # Weekly: Runs every Sunday at 00:00 UTC
+    # - cron: '0 0 * * 1' # Monthly: Runs once a month at 00:00 UTC
+    # - cron: '0 0 1 * *' # Monthly: Runs on the 1st day of every month at 00:00 UTC
+    # - cron: '0 0 1 * *' # Yearly: Runs once a year at 00:00 UTC
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://dev.to/feed/saikhawnkham, https://medium.com/feed/@sai435137'
