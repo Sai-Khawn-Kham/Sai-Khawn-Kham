@@ -27,8 +27,8 @@
 <!-- - 👯 I’m looking to collaborate on [project](https://example.com/) -->
 <!-- - 🤝 I’m looking for help with [project](https://example.com/) -->
 <!-- - 📝 I regularly write articles on [display](link) -->
-- 🌱 I’m currently learning **Backend Development with PHP and Laravel**
 <!-- - 💬 Ask me about **React and Next** -->
+- 🌱 I’m currently learning **Backend Development with PHP and Laravel**
 - 📫 How to reach me **khawnkham222@gmail.com**
 - 👨‍💻 All of my projects are available at [https://khawn-portfolio.vercel.app](https://khawn-portfolio.vercel.app)
 - 📄 Know about my experiences [https://docs.google.com/document/d/1r13Q6O71ud-4ajYuN96jE_RCmo8hTWRnb0IK8z2jw_o/edit?usp=sharing](https://docs.google.com/document/d/1r13Q6O71ud-4ajYuN96jE_RCmo8hTWRnb0IK8z2jw_o/edit?usp=sharing)
